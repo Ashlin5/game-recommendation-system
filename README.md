@@ -43,7 +43,7 @@ game-recommendation-system/
 
 ## ▶️ How To Run Locally
 ```bash
-pip install streamlit pandas scikit-learn
+pip install -r requirements.txt
 streamlit run app.py
 ```
 📊 Example Output
