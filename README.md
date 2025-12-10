@@ -13,6 +13,14 @@ A **content-based recommendation system** using **TF-IDF & Cosine Similarity** t
 
 ---
 
+## 📸 App Preview
+
+| Home Screen | Recommendations |
+|------------|------------------|
+| ![](assets/app_ui.png) | ![](assets/recommendations.png) |
+
+---
+
 ## 🛠 Tech Stack
 - Python
 - Pandas, NumPy
